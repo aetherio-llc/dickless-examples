@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+__pycache__/
+*.pyc
+target/
+bin/
+obj/
+vendor/
+.Rhistory
+.DS_Store

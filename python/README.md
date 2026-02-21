@@ -1,0 +1,18 @@
+# dickless.io Python Example
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+export DICKLESS_API_KEY="dkls_live_YOUR_KEY"
+python main.py
+```
+
+## What it does
+
+Demonstrates content moderation, PII redaction, prompt sanitization, sentiment analysis, URL shortening, input validation, and the AI Gateway.
