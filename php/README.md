@@ -1,5 +1,9 @@
 # dickless.io PHP Example
 
+## SDK
+
+This example uses [`dickless/sdk`](https://packagist.org/packages/dickless/sdk).
+
 ## Prerequisites
 
 - PHP 8.1+
@@ -8,7 +12,7 @@
 ## Setup
 
 ```bash
-composer install
+composer require dickless/sdk
 ```
 
 ## Run

@@ -1,5 +1,9 @@
 # dickless.io R Example
 
+## SDK
+
+This example uses [`dickless`](https://github.com/aetherio-llc/dickless-r).
+
 ## Prerequisites
 
 - R 4.0+
@@ -7,14 +11,8 @@
 ## Setup
 
 ```r
-install.packages("dickless")
-```
-
-Or from GitHub:
-
-```r
 # install.packages("remotes")
-remotes::install_github("dickless-io/dickless-r")
+remotes::install_github("aetherio-llc/dickless-r")
 ```
 
 ## Run

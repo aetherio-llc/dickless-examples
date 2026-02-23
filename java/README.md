@@ -1,11 +1,27 @@
 # dickless.io Java Example
 
+## SDK
+
+This example uses [`dickless-sdk`](https://central.sonatype.com/artifact/io.dickless/dickless-sdk) from Maven Central.
+
 ## Prerequisites
 
 - Java 17+
 - Maven 3.8+
 
 ## Setup
+
+Add to your `pom.xml`:
+
+```xml
+<dependency>
+  <groupId>io.dickless</groupId>
+  <artifactId>dickless-sdk</artifactId>
+  <version>0.1.0</version>
+</dependency>
+```
+
+Then:
 
 ```bash
 mvn compile

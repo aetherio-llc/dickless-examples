@@ -1,5 +1,9 @@
 # dickless.io C# Example
 
+## SDK
+
+This example uses [`Dickless.Sdk`](https://www.nuget.org/packages/Dickless.Sdk).
+
 ## Prerequisites
 
 - .NET 8.0 SDK
@@ -7,7 +11,7 @@
 ## Setup
 
 ```bash
-dotnet restore
+dotnet add package Dickless.Sdk
 ```
 
 ## Run

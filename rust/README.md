@@ -1,9 +1,13 @@
 # dickless.io Rust Example
 
+## SDK
+
+This example uses [`dickless`](https://crates.io/crates/dickless).
+
 ## Setup
 
 ```bash
-cargo build
+cargo add dickless
 ```
 
 ## Run

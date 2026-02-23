@@ -1,9 +1,13 @@
 # dickless.io Python Example
 
+## SDK
+
+This example uses [`dickless`](https://pypi.org/project/dickless/).
+
 ## Setup
 
 ```bash
-pip install -r requirements.txt
+pip install dickless
 ```
 
 ## Run

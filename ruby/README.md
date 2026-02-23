@@ -1,9 +1,19 @@
 # dickless.io Ruby Example
 
+## SDK
+
+This example uses [`dickless`](https://rubygems.org/gems/dickless).
+
 ## Setup
 
 ```bash
-bundle install
+gem install dickless
+```
+
+Or add to your Gemfile:
+
+```ruby
+gem "dickless"
 ```
 
 ## Run

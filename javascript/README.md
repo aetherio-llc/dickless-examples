@@ -1,10 +1,16 @@
 # dickless.io JavaScript Example
 
+## SDK
+
+This example uses [`@dickless/sdk`](https://www.npmjs.com/package/@dickless/sdk).
+
 ## Setup
 
 ```bash
-npm install
+npm install @dickless/sdk
 ```
+
+Also available via `pnpm add @dickless/sdk`, `yarn add @dickless/sdk`, or `bun add @dickless/sdk`.
 
 ## Run
 

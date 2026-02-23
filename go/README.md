@@ -1,9 +1,13 @@
 # dickless.io Go Example
 
+## SDK
+
+This example uses [`dickless-go`](https://pkg.go.dev/github.com/dickless-io/dickless-go).
+
 ## Setup
 
 ```bash
-go mod tidy
+go get github.com/dickless-io/dickless-go
 ```
 
 ## Run
